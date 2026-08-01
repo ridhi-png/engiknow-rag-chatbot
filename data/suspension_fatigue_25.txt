@@ -1,0 +1,5 @@
+Title: Suspension Component Fatigue Crack - Durability Test
+Category: RCA Report
+Date: 2025-02-24
+
+A fatigue crack was found in a lower control arm after 60,000 simulated miles on the durability rig, short of the 100,000 mile target. Root cause: finite element analysis had underestimated stress concentration at a weld transition radius. Redesigned the transition radius from 2mm to 5mm and re-validated with updated FEA and physical testing.

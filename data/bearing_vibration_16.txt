@@ -1,0 +1,5 @@
+Title: Early Bearing Failure Detection via Vibration Trend
+Category: Lessons Learned
+Date: 2025-02-21
+
+Predictive maintenance software flagged a rising vibration trend on Fan Motor F-2 two weeks before what would likely have been a failure. Root cause investigation confirmed early-stage outer race bearing wear. Lesson: the 10%-per-week vibration increase threshold used for alerting was validated as an effective early-warning indicator and should be applied fleet-wide to all rotating equipment over 5 HP.

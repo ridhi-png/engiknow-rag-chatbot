@@ -1,0 +1,5 @@
+Title: Uneven Brake Pad Wear on Test Vehicle Fleet
+Category: Maintenance Log
+Date: 2025-03-27
+
+Test vehicles in the fleet showed uneven brake pad wear between left and right calipers. Root cause: a caliper slide pin was under-lubricated, causing partial binding and uneven pad contact pressure. Added slide pin lubrication to the 5,000-mile service interval checklist for the entire test fleet.

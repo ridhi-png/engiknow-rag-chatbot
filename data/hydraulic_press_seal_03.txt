@@ -1,0 +1,5 @@
+Title: Hydraulic Press Seal Leak - Press Station 7
+Category: RCA Report
+Date: 2025-03-11
+
+A slow oil leak was traced to a worn rod seal on the main ram cylinder of Press Station 7. Root cause analysis identified that the seal material (standard nitrile) was not rated for the elevated operating temperature of 85C reached during high-cycle production runs. Recommendation: replace nitrile seals with Viton seals rated to 200C for all presses running above 70C ambient cylinder temperature.

@@ -1,0 +1,5 @@
+Title: Power Supply Ripple Causing Sensor Noise
+Category: RCA Report
+Date: 2025-03-24
+
+Proximity sensors on Line 6 exhibited erratic false triggers. Root cause: a 24V DC power supply feeding the sensor bus had excessive output ripple after an internal capacitor began to fail from age (installed 9 years prior). Replaced the power supply and added power supply age/condition to the annual electrical PM checklist.

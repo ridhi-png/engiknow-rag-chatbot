@@ -1,0 +1,5 @@
+Title: Intermittent CAN Bus Error on Vehicle Network
+Category: RCA Report
+Date: 2025-01-11
+
+Sporadic CAN bus error frames were logged on the vehicle network during vibration testing. Root cause: a connector pin on the gateway module had a marginal crimp that opened intermittently under vibration. Reworked with a certified crimp tool and added a pull-test verification step for all CAN harness connectors in the build process.

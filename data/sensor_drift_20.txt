@@ -1,0 +1,5 @@
+Title: Temperature Sensor Drift Causing False Alarms
+Category: Lessons Learned
+Date: 2025-03-14
+
+An RTD temperature sensor on the curing oven began reading 8C higher than actual, triggering unnecessary high-temperature alarms and production stoppages. Root cause: sensor had not been recalibrated in 24 months, exceeding the manufacturer's recommended 12-month interval. Lesson: enforce calibration interval compliance via the CMMS with automatic work order generation.

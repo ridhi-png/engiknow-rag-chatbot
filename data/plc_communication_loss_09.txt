@@ -1,0 +1,5 @@
+Title: Intermittent PLC Communication Loss - Line 2
+Category: Maintenance Log
+Date: 2025-01-08
+
+Line 2's PLC network experienced intermittent communication dropouts, causing sporadic stoppages. Root cause: a damaged shield on an Ethernet/IP cable running near a VFD (variable frequency drive) was allowing electromagnetic interference into the network. Fix: rerouted the cable away from the VFD and replaced with shielded cable rated for industrial EMI environments.

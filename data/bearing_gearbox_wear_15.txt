@@ -1,0 +1,5 @@
+Title: Premature Gearbox Bearing Wear - Mixer Unit
+Category: RCA Report
+Date: 2025-01-25
+
+Input shaft bearing on the main mixer gearbox failed after only 5,000 hours against an 18,000 hour design life. Oil analysis revealed water contamination at 800 ppm, well above the 200 ppm limit. Root cause: a failed shaft seal allowed process water ingress. Replaced seal with an upgraded labyrinth-style design and added quarterly oil analysis to the PM schedule.

@@ -1,0 +1,5 @@
+Title: Robotic Arm Collision with Fixture - Cell 5
+Category: RCA Report
+Date: 2025-02-27
+
+A minor collision occurred between the robotic arm end-effector and a workholding fixture in Cell 5. Root cause: the fixture had been relocated 30mm during a changeover, but the robot's safety zone map was not updated to reflect the new fixture position. Corrective action: added a mandatory safety-zone re-validation step to the changeover SOP whenever fixtures are repositioned.

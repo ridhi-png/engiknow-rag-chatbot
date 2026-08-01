@@ -1,0 +1,5 @@
+Title: Gearbox Oil Analysis Flags Metal Particulates
+Category: RCA Report
+Date: 2025-03-16
+
+Routine oil analysis on the main drive gearbox detected elevated iron and copper particulate levels. Root cause: gear tooth micropitting had begun on the input pinion due to a lubricant viscosity grade that was one grade lighter than specified after a supplier substitution. Corrected the oil grade and scheduled a borescope inspection of the gear set.

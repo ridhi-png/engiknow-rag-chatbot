@@ -1,0 +1,5 @@
+Title: Conveyor Belt Mistracking After Roller Replacement
+Category: Lessons Learned
+Date: 2025-02-03
+
+After replacing idler roller R-22 on the main packaging conveyor, the belt began drifting toward the drive side by approximately 15mm per hour. Investigation found the replacement roller was misaligned by 1.2 degrees relative to the frame. Lesson: always verify roller squareness with a laser alignment tool after any roller swap, not just visual inspection. Added this step to the standard roller replacement checklist.

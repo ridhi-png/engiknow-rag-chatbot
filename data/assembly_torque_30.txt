@@ -1,0 +1,5 @@
+Title: Fastener Torque Non-Conformance on Final Assembly
+Category: Maintenance Log
+Date: 2025-01-05
+
+Random audit found several fasteners on the final assembly line torqued below specification. Root cause: the pneumatic torque wrench had drifted out of calibration and had not been checked against the recalibration schedule due to a missed CMMS reminder. Recalibrated the tool and implemented a daily torque wrench verification check using a calibrated torque tester.

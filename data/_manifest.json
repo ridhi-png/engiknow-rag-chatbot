@@ -1,0 +1,212 @@
+[
+  {
+    "file": "conveyor_bearing_failure_01.txt",
+    "category": "Maintenance Log",
+    "title": "Conveyor Motor Bearing Failure - Line 3",
+    "date": "2025-01-14"
+  },
+  {
+    "file": "conveyor_belt_tracking_02.txt",
+    "category": "Lessons Learned",
+    "title": "Conveyor Belt Mistracking After Roller Replacement",
+    "date": "2025-02-03"
+  },
+  {
+    "file": "hydraulic_press_seal_03.txt",
+    "category": "RCA Report",
+    "title": "Hydraulic Press Seal Leak - Press Station 7",
+    "date": "2025-03-11"
+  },
+  {
+    "file": "hydraulic_pressure_drop_04.txt",
+    "category": "Maintenance Log",
+    "title": "Unexplained Pressure Drop in Hydraulic Circuit 2",
+    "date": "2025-01-29"
+  },
+  {
+    "file": "cnc_spindle_overheat_05.txt",
+    "category": "RCA Report",
+    "title": "CNC Spindle Overheating on Mill M-4",
+    "date": "2025-02-18"
+  },
+  {
+    "file": "cnc_tool_wear_06.txt",
+    "category": "Lessons Learned",
+    "title": "Premature Tool Wear on CNC Lathe L-9",
+    "date": "2025-03-02"
+  },
+  {
+    "file": "robotic_arm_calibration_07.txt",
+    "category": "Maintenance Log",
+    "title": "Robotic Arm Positioning Drift - Cell 12",
+    "date": "2025-01-22"
+  },
+  {
+    "file": "robotic_arm_collision_08.txt",
+    "category": "RCA Report",
+    "title": "Robotic Arm Collision with Fixture - Cell 5",
+    "date": "2025-02-27"
+  },
+  {
+    "file": "plc_communication_loss_09.txt",
+    "category": "Maintenance Log",
+    "title": "Intermittent PLC Communication Loss - Line 2",
+    "date": "2025-01-08"
+  },
+  {
+    "file": "plc_firmware_update_10.txt",
+    "category": "Lessons Learned",
+    "title": "PLC Firmware Update Caused Logic Fault",
+    "date": "2025-02-14"
+  },
+  {
+    "file": "pneumatic_valve_stick_11.txt",
+    "category": "RCA Report",
+    "title": "Pneumatic Valve Sticking - Packaging Line",
+    "date": "2025-03-05"
+  },
+  {
+    "file": "pneumatic_air_leak_12.txt",
+    "category": "Maintenance Log",
+    "title": "Air Leak Detected at Quick-Connect Fitting",
+    "date": "2025-01-19"
+  },
+  {
+    "file": "cooling_system_scaling_13.txt",
+    "category": "RCA Report",
+    "title": "Reduced Cooling Efficiency Due to Scale Buildup",
+    "date": "2025-02-09"
+  },
+  {
+    "file": "cooling_pump_cavitation_14.txt",
+    "category": "Maintenance Log",
+    "title": "Cooling Pump Cavitation Noise",
+    "date": "2025-03-18"
+  },
+  {
+    "file": "bearing_gearbox_wear_15.txt",
+    "category": "RCA Report",
+    "title": "Premature Gearbox Bearing Wear - Mixer Unit",
+    "date": "2025-01-25"
+  },
+  {
+    "file": "bearing_vibration_16.txt",
+    "category": "Lessons Learned",
+    "title": "Early Bearing Failure Detection via Vibration Trend",
+    "date": "2025-02-21"
+  },
+  {
+    "file": "weld_defect_17.txt",
+    "category": "RCA Report",
+    "title": "Weld Porosity Defects on Frame Assembly",
+    "date": "2025-03-08"
+  },
+  {
+    "file": "welding_robot_drift_18.txt",
+    "category": "Maintenance Log",
+    "title": "Welding Robot Torch Angle Drift",
+    "date": "2025-01-31"
+  },
+  {
+    "file": "motor_overload_19.txt",
+    "category": "RCA Report",
+    "title": "Motor Overload Trips on Exhaust Fan",
+    "date": "2025-02-12"
+  },
+  {
+    "file": "sensor_drift_20.txt",
+    "category": "Lessons Learned",
+    "title": "Temperature Sensor Drift Causing False Alarms",
+    "date": "2025-03-14"
+  },
+  {
+    "file": "battery_ev_thermal_21.txt",
+    "category": "RCA Report",
+    "title": "EV Battery Pack Thermal Runaway Precursor - Test Rig",
+    "date": "2025-01-27"
+  },
+  {
+    "file": "battery_bms_fault_22.txt",
+    "category": "Maintenance Log",
+    "title": "BMS False Cell Imbalance Fault",
+    "date": "2025-02-06"
+  },
+  {
+    "file": "charging_station_fault_23.txt",
+    "category": "RCA Report",
+    "title": "EV Charging Station Communication Timeout",
+    "date": "2025-03-21"
+  },
+  {
+    "file": "motor_controller_inverter_24.txt",
+    "category": "Lessons Learned",
+    "title": "Inverter Overheating Under Sustained High Torque",
+    "date": "2025-01-16"
+  },
+  {
+    "file": "suspension_fatigue_25.txt",
+    "category": "RCA Report",
+    "title": "Suspension Component Fatigue Crack - Durability Test",
+    "date": "2025-02-24"
+  },
+  {
+    "file": "brake_pad_wear_26.txt",
+    "category": "Maintenance Log",
+    "title": "Uneven Brake Pad Wear on Test Vehicle Fleet",
+    "date": "2025-03-27"
+  },
+  {
+    "file": "software_can_bus_27.txt",
+    "category": "RCA Report",
+    "title": "Intermittent CAN Bus Error on Vehicle Network",
+    "date": "2025-01-11"
+  },
+  {
+    "file": "firmware_regression_28.txt",
+    "category": "Lessons Learned",
+    "title": "Firmware Regression Reintroduced Fixed Bug",
+    "date": "2025-02-17"
+  },
+  {
+    "file": "quality_incoming_inspection_29.txt",
+    "category": "RCA Report",
+    "title": "Incoming Material Dimensional Non-Conformance",
+    "date": "2025-03-30"
+  },
+  {
+    "file": "assembly_torque_30.txt",
+    "category": "Maintenance Log",
+    "title": "Fastener Torque Non-Conformance on Final Assembly",
+    "date": "2025-01-05"
+  },
+  {
+    "file": "hvac_filter_31.txt",
+    "category": "Lessons Learned",
+    "title": "Clean Room HVAC Pressure Differential Loss",
+    "date": "2025-02-28"
+  },
+  {
+    "file": "gearbox_oil_analysis_32.txt",
+    "category": "RCA Report",
+    "title": "Gearbox Oil Analysis Flags Metal Particulates",
+    "date": "2025-03-16"
+  },
+  {
+    "file": "automation_safety_interlock_33.txt",
+    "category": "Maintenance Log",
+    "title": "Safety Light Curtain Nuisance Trips",
+    "date": "2025-01-23"
+  },
+  {
+    "file": "conveyor_chain_stretch_34.txt",
+    "category": "Lessons Learned",
+    "title": "Conveyor Chain Stretch Beyond Wear Limit",
+    "date": "2025-02-19"
+  },
+  {
+    "file": "power_supply_ripple_35.txt",
+    "category": "RCA Report",
+    "title": "Power Supply Ripple Causing Sensor Noise",
+    "date": "2025-03-24"
+  }
+]

@@ -1,0 +1,5 @@
+Title: Safety Light Curtain Nuisance Trips
+Category: Maintenance Log
+Date: 2025-01-23
+
+The light curtain guarding the automated palletizer was tripping several times per shift with no actual intrusion detected. Root cause: reflective packaging material on pallets was scattering the light curtain's beam. Adjusted curtain sensitivity settings and added a physical baffle to reduce stray reflections, per the manufacturer's application note.

@@ -1,0 +1,5 @@
+Title: Inverter Overheating Under Sustained High Torque
+Category: Lessons Learned
+Date: 2025-01-16
+
+The traction motor inverter on the EV prototype platform overheated during a sustained hill-climb test, derating output power. Root cause: heat sink fins had insufficient airflow due to a duct design that did not account for low-speed operation where fan-forced cooling was inadequate. Lesson: thermal validation testing must include low-speed, high-torque scenarios, not just highway-speed conditions.

@@ -1,0 +1,17 @@
+[
+  {"query": "Why did the conveyor motor bearing fail?", "expected_file": "conveyor_bearing_failure_01.txt"},
+  {"query": "What caused the belt to drift to one side after roller replacement?", "expected_file": "conveyor_belt_tracking_02.txt"},
+  {"query": "Hydraulic press is leaking oil, what was the root cause?", "expected_file": "hydraulic_press_seal_03.txt"},
+  {"query": "Pressure keeps dropping mid-cycle on the hydraulic circuit", "expected_file": "hydraulic_pressure_drop_04.txt"},
+  {"query": "CNC spindle keeps overheating and tripping", "expected_file": "cnc_spindle_overheat_05.txt"},
+  {"query": "Why are carbide inserts wearing out so fast on the lathe?", "expected_file": "cnc_tool_wear_06.txt"},
+  {"query": "Robotic arm is placing parts off target", "expected_file": "robotic_arm_calibration_07.txt"},
+  {"query": "Robot collided with a fixture, what happened?", "expected_file": "robotic_arm_collision_08.txt"},
+  {"query": "PLC network keeps losing communication intermittently", "expected_file": "plc_communication_loss_09.txt"},
+  {"query": "Safety interlock behaved strangely after firmware update", "expected_file": "plc_firmware_update_10.txt"},
+  {"query": "Solenoid valve is sticking on the packaging line", "expected_file": "pneumatic_valve_stick_11.txt"},
+  {"query": "Chiller has lost cooling capacity over time", "expected_file": "cooling_system_scaling_13.txt"},
+  {"query": "Gearbox bearing failed much earlier than expected", "expected_file": "bearing_gearbox_wear_15.txt"},
+  {"query": "Welds are showing porosity defects", "expected_file": "weld_defect_17.txt"},
+  {"query": "EV battery cell showing abnormal temperature rise during testing", "expected_file": "battery_ev_thermal_21.txt"}
+]

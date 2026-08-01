@@ -1,0 +1,5 @@
+Title: Conveyor Motor Bearing Failure - Line 3
+Category: Maintenance Log
+Date: 2025-01-14
+
+Root cause: bearing failure in conveyor motor B-114 due to inadequate lubrication interval. The bearing had been running for 4,200 hours against a rated service life of 3,000 hours without a grease refill. Vibration analysis showed a spike in the 2x-BPFO frequency band two weeks before failure. Corrective action: reduced lubrication interval from 90 days to 45 days for all conveyor motors on Line 3, and added a vibration sensor with a threshold alarm at 4.5 mm/s RMS.

@@ -1,0 +1,5 @@
+Title: Pneumatic Valve Sticking - Packaging Line
+Category: RCA Report
+Date: 2025-03-05
+
+Solenoid valve V-33 controlling the pick-and-place gripper began sticking intermittently, causing missed cycles. Root cause: moisture contamination in the compressed air supply due to a malfunctioning air dryer. Corrective action: replaced the desiccant air dryer cartridge and added a moisture indicator gauge at the point of use for early detection.

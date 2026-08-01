@@ -1,0 +1,5 @@
+Title: Robotic Arm Positioning Drift - Cell 12
+Category: Maintenance Log
+Date: 2025-01-22
+
+Six-axis robotic arm in Assembly Cell 12 began placing parts 2-3mm off target after approximately 8 months of continuous operation. Root cause: encoder drift on axis 4 due to thermal cycling. Recalibration using the manufacturer's zero-point procedure resolved the issue. Recommendation: schedule quarterly calibration checks for all robotic arms in high-cycle assembly cells.

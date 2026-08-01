@@ -1,0 +1,5 @@
+Title: CNC Spindle Overheating on Mill M-4
+Category: RCA Report
+Date: 2025-02-18
+
+Spindle motor on CNC Mill M-4 tripped on thermal overload three times in one week. Root cause: coolant nozzle had shifted out of alignment during a tooling change, resulting in insufficient coolant flow to the spindle bearing housing. Fix: added a coolant flow sensor with a 2 L/min minimum threshold interlock that halts the spindle if flow drops below spec.

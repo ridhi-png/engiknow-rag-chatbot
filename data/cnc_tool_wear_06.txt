@@ -1,0 +1,5 @@
+Title: Premature Tool Wear on CNC Lathe L-9
+Category: Lessons Learned
+Date: 2025-03-02
+
+Carbide inserts on Lathe L-9 were wearing out after 40 parts instead of the expected 150 parts. Investigation found the feed rate programmed was 20% higher than the material supplier's recommendation for the new batch of 4140 alloy steel. Lesson: always re-verify feed/speed parameters when a new material batch or supplier is introduced, even if the material spec looks identical on paper.

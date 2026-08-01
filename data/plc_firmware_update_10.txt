@@ -1,0 +1,5 @@
+Title: PLC Firmware Update Caused Logic Fault
+Category: Lessons Learned
+Date: 2025-02-14
+
+After a routine PLC firmware update on Line 4, the safety interlock logic for the guard door began behaving inconsistently. Root cause: the firmware update reset several I/O module configuration parameters to factory defaults, which were not caught during testing. Lesson: always export and compare the full I/O configuration before and after any firmware update, not just the ladder logic program.

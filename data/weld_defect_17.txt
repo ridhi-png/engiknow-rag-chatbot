@@ -1,0 +1,5 @@
+Title: Weld Porosity Defects on Frame Assembly
+Category: RCA Report
+Date: 2025-03-08
+
+A batch of 40 chassis frames failed ultrasonic weld inspection due to porosity. Root cause: a shielding gas cylinder had been swapped to a lower-purity argon blend by mistake during a supplier transition. Corrective action: added a gas purity certificate check to the incoming material inspection process and color-coded cylinders by grade.

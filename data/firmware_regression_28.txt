@@ -1,0 +1,5 @@
+Title: Firmware Regression Reintroduced Fixed Bug
+Category: Lessons Learned
+Date: 2025-02-17
+
+A previously fixed bug in the motor controller firmware reappeared after a merge from an older development branch. Root cause: the regression test suite did not include a test case for this specific fault condition, so the reintroduced bug went undetected. Lesson: every confirmed bug fix must be accompanied by a permanent regression test case before the fix is considered closed.

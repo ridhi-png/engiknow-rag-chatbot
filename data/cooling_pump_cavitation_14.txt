@@ -1,0 +1,5 @@
+Title: Cooling Pump Cavitation Noise
+Category: Maintenance Log
+Date: 2025-03-18
+
+Pump P-7 in the cooling loop began making a loud rattling noise consistent with cavitation. Root cause: the suction strainer was 70% blocked with sediment, reducing net positive suction head (NPSH) below the pump's requirement. Cleaned the strainer and reduced the cleaning interval from quarterly to monthly based on observed sediment accumulation rate.

@@ -1,0 +1,5 @@
+Title: Incoming Material Dimensional Non-Conformance
+Category: RCA Report
+Date: 2025-03-30
+
+A batch of machined brackets from a new supplier failed incoming dimensional inspection on hole spacing tolerance. Root cause: the supplier's CNC program used an outdated revision of the drawing. Corrective action: implemented a mandatory drawing revision confirmation step in the purchase order process and required a first-article inspection report for all new suppliers.

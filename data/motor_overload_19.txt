@@ -1,0 +1,5 @@
+Title: Motor Overload Trips on Exhaust Fan
+Category: RCA Report
+Date: 2025-02-12
+
+Exhaust fan motor EF-3 tripped on overload multiple times per week. Root cause: fan blades had accumulated dust buildup increasing rotational inertia and load beyond the motor's rated capacity. Cleaned blades and implemented a bi-monthly blade inspection and cleaning schedule for all exhaust fans in the paint booth area.

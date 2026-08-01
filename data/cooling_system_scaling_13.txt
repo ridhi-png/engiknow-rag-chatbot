@@ -1,0 +1,5 @@
+Title: Reduced Cooling Efficiency Due to Scale Buildup
+Category: RCA Report
+Date: 2025-02-09
+
+The chiller unit serving the injection molding area showed a 30% drop in cooling capacity over three months. Root cause: mineral scale buildup inside the heat exchanger plates due to untreated water in the closed-loop circuit. Fix: flushed the system with a descaling solution and installed a water softener with conductivity monitoring on the makeup water line.

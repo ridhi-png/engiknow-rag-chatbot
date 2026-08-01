@@ -1,0 +1,5 @@
+Title: Unexplained Pressure Drop in Hydraulic Circuit 2
+Category: Maintenance Log
+Date: 2025-01-29
+
+Operators reported the hydraulic press losing pressure mid-cycle on Circuit 2. Diagnosis revealed a partially clogged 10-micron filter causing cavitation in the pump. Filter differential pressure gauge had not been checked in 6 months. Action: implemented a weekly filter differential pressure check and set replacement threshold at 25 psi differential.

@@ -1,0 +1,5 @@
+Title: BMS False Cell Imbalance Fault
+Category: Maintenance Log
+Date: 2025-02-06
+
+The battery management system on the EV test platform repeatedly flagged a cell imbalance fault that could not be reproduced on the bench. Root cause: a loose voltage sense wire connector was creating intermittent readings. Reseated and secured the connector with a locking clip; added connector torque/lock verification to the pack assembly checklist.

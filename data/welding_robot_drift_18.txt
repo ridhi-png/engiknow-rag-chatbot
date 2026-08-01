@@ -1,0 +1,5 @@
+Title: Welding Robot Torch Angle Drift
+Category: Maintenance Log
+Date: 2025-01-31
+
+Weld quality on Cell 8 degraded gradually over two weeks, traced to the welding torch angle drifting 3 degrees from program due to a loosened torch mount bolt. Tightened to spec torque and added thread-locking compound. Recommendation: include torch mount bolt torque check in the weekly robot maintenance checklist.

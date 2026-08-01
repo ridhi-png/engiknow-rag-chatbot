@@ -1,0 +1,5 @@
+Title: Conveyor Chain Stretch Beyond Wear Limit
+Category: Lessons Learned
+Date: 2025-02-19
+
+The overhead conveyor chain on the paint line stretched beyond the 2% wear limit specified by the manufacturer, causing sprocket skipping. Root cause: chain lubrication had switched to a lower-temperature-rated lubricant that broke down at the oven's operating temperature, accelerating wear. Lesson: always match lubricant thermal rating to the highest temperature zone the chain passes through, not the average line temperature.

@@ -1,0 +1,5 @@
+Title: Clean Room HVAC Pressure Differential Loss
+Category: Lessons Learned
+Date: 2025-02-28
+
+The clean room used for battery cell assembly lost positive pressure differential relative to the adjacent corridor. Root cause: HEPA filters were loaded beyond their rated pressure drop, restricting airflow. Lesson: monitor filter pressure drop continuously rather than relying solely on the fixed replacement calendar, since dust loading rates vary seasonally.

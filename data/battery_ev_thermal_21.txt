@@ -1,0 +1,5 @@
+Title: EV Battery Pack Thermal Runaway Precursor - Test Rig
+Category: RCA Report
+Date: 2025-01-27
+
+During accelerated life testing of an EV battery module, cell group 4 showed a temperature rise rate of 2C/min above the expected baseline. Root cause: a manufacturing defect in the cell tab weld created localized resistance and hotspot formation. Corrective action: added thermal imaging inspection as a 100% quality gate for all cell tab welds before pack assembly.

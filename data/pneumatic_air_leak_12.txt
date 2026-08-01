@@ -1,0 +1,5 @@
+Title: Air Leak Detected at Quick-Connect Fitting
+Category: Maintenance Log
+Date: 2025-01-19
+
+An audible air leak was traced to a worn quick-connect fitting on the pneumatic clamping station. The fitting had exceeded its rated 500,000 cycle life. Replaced with a heavy-duty fitting rated for 1,000,000 cycles given the high-frequency clamping application. Added fitting cycle count to the preventive maintenance tracking sheet.
